@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "williams 67",
+      "email": "williannmsj_28@hotmail.com",
+      "telefono": "04142662736",
+      "empresa": "kjlkjlk",
+      "id": 3
+    },
+    {
+      "nombre": "williams 2",
+      "email": "willimmamsj_28@hotmail.com",
+      "telefono": "04142662736",
+      "empresa": "nm,n,m",
+      "id": 4
+    }
+  ]
+}
